@@ -1,0 +1,1 @@
+C:\Projects\HyperSkillKotlin\build\classes\kotlin\main\flashcards\Equation.class;C:\Projects\HyperSkillKotlin\build\classes\kotlin\main\flashcards\Flashcards.class;C:\Projects\HyperSkillKotlin\build\classes\kotlin\main\flashcards\MainKt.class
